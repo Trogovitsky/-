@@ -1,0 +1,25 @@
+.temperature {
+    font-size: 4rem;
+    font-weight: bold;
+    margin: 0;
+}
+
+.feels-like {
+    font-size: 1.2rem;
+    color: #666;
+}
+
+.weather-item {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #f8f9fa;
+}
+
+.weather-item i {
+    font-size: 2rem;
+    color: #315efb;
+}
+
+.weather-item p {
+    margin: 5px 0;
+} 
